@@ -1,0 +1,14 @@
+galaxy_info:
+  author: Chris Blumentritt
+  description: Install vscode
+  license: MIT
+  min_ansible_version: 2.9
+   platforms:
+   - name: Ubuntu
+     versions:
+     - 21.10
+
+  galaxy_tags: []
+
+dependencies: []
+  
